@@ -33,3 +33,8 @@ the class responsible for creating, editing, deleting or even searching an emplo
 # UI :~
 
 the main UI & options the user deal with in order to work with the manager, the csv file is updated accordingly after each action.
+- To Start the Project :~
+1. Copy or Pull the code files on a IDE (integrated development environment) software
+2. Select the file `UI.py`
+3. Run the file using the icon ▶️
+4. Enjoy !! 
